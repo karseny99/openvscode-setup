@@ -1,0 +1,10 @@
+{
+    "files.exclude": {
+        ".cache": true,
+        ".openvscode-server": true,
+        ".vscode": true,
+        ".zcompdump": true,
+        ".zsh_history": true,
+        ".zshrc": true
+    }
+}
