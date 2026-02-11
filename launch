@@ -1,2 +1,2 @@
-docker run -it -p 3000:3000 --detach openvscode
+ufw allow 3000 && docker run -it -p 3000:3000 --detach openvscode
 
